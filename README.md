@@ -8,7 +8,7 @@
 
 - Nationality: 🇨🇦/🇮🇪
 - Personal interests: ⚽ 🥊 💪🏽 🏕 🏍 💻 🛫
-- Countries I've visited: 🇨🇦 🇹🇭 🇲🇾 🇻🇳 🇰🇭 🇮🇩 🇺🇸
+- Countries I've visited: 🇨🇦 🇹🇭 🇲🇾 🇻🇳 🇰🇭 🇮🇩 🇺🇸 🇪🇸 🇵🇹
 - Current location: 📍 Victoria, BC, Canada
 
 🌎 Check my [portfolio](https://timbaker.me/)
