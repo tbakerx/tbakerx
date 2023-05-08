@@ -27,3 +27,6 @@ Feel free to reach out and see what I'm up to now 💬
         <img src="https://github.com/tbakerx/tbakerx/blob/main/assets/linkedin-green.png" alt="Connect on Linkedin" width="24" height="24">
     </a>
 </div>
+
+##
+[![](https://visitcount.itsvg.in/api?id=tbakerx&label=Profile%20Views&color=3&icon=1&pretty=true)](https://visitcount.itsvg.in)
