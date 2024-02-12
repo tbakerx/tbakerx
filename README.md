@@ -2,13 +2,13 @@
 
 ## Full Stack Software Engineer
 
-💻 I'm currently working at [Instant Domains](https://instantdomains.com), helping people find the perfect domain and set up their website, instantly ⚡️
+💻 I'm currently working at [Strobe](https://strobe.app), helping deliver key insights to facilitate brand and content creator collaboration.
 
 ### A bit about me:
 
 - Nationality: 🇨🇦/🇮🇪
 - Personal interests: ⚽ 🥊 💪🏽 🏕 🏍 💻 🛫
-- Countries I've visited: 🇨🇦 🇹🇭 🇲🇾 🇻🇳 🇰🇭 🇮🇩 🇺🇸 🇪🇸 🇵🇹
+- Countries I've visited: 🇨🇦 🇹🇭 🇲🇾 🇻🇳 🇰🇭 🇮🇩 🇺🇸 🇪🇸 🇵🇹 🇮🇪
 - Current location: 📍 Victoria, BC, Canada
 
 🌎 Check my [portfolio](https://timbaker.me/)
