@@ -9,7 +9,7 @@
 - Nationality: 🇨🇦/🇮🇪
 - Personal interests: ⚽ 🥊 💪🏽 🏕 🏍 💻 🛫
 - Countries visited: 🇨🇦 🇹🇭 🇲🇾 🇻🇳 🇰🇭 🇮🇩 🇺🇸 🇪🇸 🇵🇹 🇮🇪
-- Current location: 📍 Valencia, Spain
+- Current location: 📍 Valencia, Spain 🇪🇸
 
 🌎 Check my [portfolio](https://timbaker.me/)
 
